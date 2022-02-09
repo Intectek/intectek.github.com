@@ -1,1 +1,1 @@
-# tecsudo.github.com
+# tecsudo.github.io
