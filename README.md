@@ -1,1 +1,1 @@
-# intectek.github.com
+# tecsudo.github.com
